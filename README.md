@@ -4,7 +4,9 @@
 ![Packet Tracer](https://img.shields.io/badge/Simulator-Packet_Tracer-00BCEB?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-CCNA_Routing_%26_Switching-2EA44F?style=flat-square)
 
-A collection of hands-on network topologies built and verified in **Cisco Packet Tracer**. Each lab focuses on practical Layer 2 and Layer 3 configuration, basic device hardening, and CLI-based troubleshooting.
+A collection of hands-on network topologies built and verified in **Cisco Packet Tracer**. Each lab focuses on practical Layer 2 and Layer 3 configuration, basic device hardening, and CLI-based troubleshooting. This repository is organized by progressively more advanced topics, covering everything from initial device setup to redundancy, dynamic addressing, and routing protocols.
+
+> **Work in Progress:** This repository is maintained alongside ongoing networking coursework. Additional completed labs covering subsequent routing and switching topics are being documented and uploaded incrementally as time permits.
 
 ## Lab Modules
 
